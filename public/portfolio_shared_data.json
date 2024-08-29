@@ -5,13 +5,18 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MC6115",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+        "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matias-carrillo-b620b7312/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
