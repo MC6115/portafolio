@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 Yo soy Matias Carrillo. Student of web development programming at Enter Tech School, with a strong foundation in modern web technologies and hands-on experience in building dynamic, responsive applications.",
+      "description": "👋 I'm Matias Carrillo. Student of web development programming at Enter Tech School, with a strong foundation in modern web technologies and hands-on experience in building dynamic, responsive applications.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2024",
+        "description": "Una galería de animales con cuernos, mi entrada al aprendizaje del uso de la librería de React.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gallery-of-horns/mainImage.png",
+          "images/portfolio/gallery-of-horns/modalImage.png"
         ],
         "url": "",
         "technologies": [
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck Products",
+        "startDate": "2024",
+        "description": "One of the first apps I was working to increase my understanding of JavaScript, althought it's at a very basic level I am very happy of my habilites to write JS",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/chartImage.png",
+          "images/portfolio/odd-duck/pickImage.png"
         ],
-        "url": "https://github.com",
+        "url": "https://mc6115.github.io/Odd-Duck/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,22 +81,17 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Enter Tech",
+        "title": "Student",
+        "years": "05.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaSript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Html",
+          "CSS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
